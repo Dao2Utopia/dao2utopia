@@ -1,21 +1,21 @@
 {
   "files": {
     "static/css/0.d5be9947.chunk.css": "/static/css/0.d5be9947.chunk.css",
-    "static/js/0.77a64c3e.chunk.js": "/static/js/0.77a64c3e.chunk.js",
+    "static/js/0.184cfa58.chunk.js": "/static/js/0.184cfa58.chunk.js",
     "main.css": "/static/css/main.aa7642c8.chunk.css",
-    "main.js": "/static/js/main.485074b9.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.d923d1d1.js",
-    "static/js/3.abe3680c.chunk.js": "/static/js/3.abe3680c.chunk.js",
-    "static/js/4.55225ca3.chunk.js": "/static/js/4.55225ca3.chunk.js",
+    "main.js": "/static/js/main.e35ba7e5.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.0788660c.js",
+    "static/js/3.140ef954.chunk.js": "/static/js/3.140ef954.chunk.js",
+    "static/js/4.41692ecc.chunk.js": "/static/js/4.41692ecc.chunk.js",
     "static/css/5.83148b11.chunk.css": "/static/css/5.83148b11.chunk.css",
-    "static/js/5.a450addd.chunk.js": "/static/js/5.a450addd.chunk.js",
+    "static/js/5.08811887.chunk.js": "/static/js/5.08811887.chunk.js",
     "static/css/6.87579b6f.chunk.css": "/static/css/6.87579b6f.chunk.css",
-    "static/js/6.7d46f6e2.chunk.js": "/static/js/6.7d46f6e2.chunk.js",
+    "static/js/6.e358cd59.chunk.js": "/static/js/6.e358cd59.chunk.js",
     "static/css/7.d5f8f7ad.chunk.css": "/static/css/7.d5f8f7ad.chunk.css",
-    "static/js/7.deb3955f.chunk.js": "/static/js/7.deb3955f.chunk.js",
+    "static/js/7.6f244e08.chunk.js": "/static/js/7.6f244e08.chunk.js",
     "index.html": "/index.html",
-    "static/js/0.77a64c3e.chunk.js.LICENSE.txt": "/static/js/0.77a64c3e.chunk.js.LICENSE.txt",
-    "static/js/3.abe3680c.chunk.js.LICENSE.txt": "/static/js/3.abe3680c.chunk.js.LICENSE.txt",
+    "static/js/0.184cfa58.chunk.js.LICENSE.txt": "/static/js/0.184cfa58.chunk.js.LICENSE.txt",
+    "static/js/3.140ef954.chunk.js.LICENSE.txt": "/static/js/3.140ef954.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/RACE1-Brannt-Plus-NCV.4d2d9d8a.ttf",
     "static/media/Peace_sign.svg": "/static/media/Peace_sign.847a1972.svg",
     "static/media/RR.f99b5a5b.png": "/static/media/RR.f99b5a5b.png",
@@ -38,9 +38,9 @@
     "static/media/zh_CN.c824f6ad.svg": "/static/media/zh_CN.c824f6ad.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d923d1d1.js",
-    "static/js/3.abe3680c.chunk.js",
+    "static/js/runtime-main.0788660c.js",
+    "static/js/3.140ef954.chunk.js",
     "static/css/main.aa7642c8.chunk.css",
-    "static/js/main.485074b9.chunk.js"
+    "static/js/main.e35ba7e5.chunk.js"
   ]
 }
